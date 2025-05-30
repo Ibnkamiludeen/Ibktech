@@ -1,9 +1,11 @@
 html{
-    background-color: rgb(172, 172, 248);
+    border: 3px solid green;
+    background-color: indianred;
 }
 
 p{
     font-size: 20px;
+    color: darksalmon;
 }
 
 h2{
