@@ -1,0 +1,29 @@
+button{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  font-size: larger;
+  text-decoration: blue;
+  background-color: aqua;
+  border-width: 10px;
+}
+
+body{
+  padding-left: 25%;
+  padding-right: 10%;
+  padding-top: 10%;
+  text-align: center;
+  background-color: darkgrey;
+}
+
+p{
+  font-size: 24px;
+  font-style: oblique;
+  font-weight: 200;
+  color: white;
+}
+
+footer{
+  font-size: large;
+  color: rebeccapurple;
+}
